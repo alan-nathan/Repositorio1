@@ -1,0 +1,19 @@
+
+body {
+    background-color: dodgerblue;
+}
+img {
+    width: 50%;
+    height: 50%;
+}
+
+#confetti {
+    background: #000;
+    color: aliceblue;
+    height: 100%;
+    left: 0px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: -1;
+}
